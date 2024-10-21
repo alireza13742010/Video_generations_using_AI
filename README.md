@@ -1,4 +1,4 @@
-# video_generations
+# Descriptions
 This repository belongs to the process of runing the code for video generation using the initial frame and desiered output frame. 
 
 The model generates the video using the provided nrative. 
@@ -21,6 +21,12 @@ The code has been implemented on RTX 3090 ti with 24GB GPU RAM.
 14. imageio
 # Options 
 The best avilable options for generating the videos are : "vqgan_imagenet_f16_16384" and "ImageNet 16384". 
+# Generated Samples 
+
+
+https://github.com/user-attachments/assets/4a22b476-7ef8-470a-8483-ede38d4184ab
+
+
 
     
     
